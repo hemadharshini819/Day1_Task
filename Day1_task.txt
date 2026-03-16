@@ -1,0 +1,237 @@
+
+BLOCK 1 - APtitude
+
+1. A number increased by 20% becomes 120.
+Find the original number.
+
+ANS:
+  Let the number be x
+     Increase = 20% of x
+              = 20/100 of x = 1/5x
+         x+1/5x = 120
+           5x+1x/5 = 120
+             6x = 120*5
+              x = 600/6
+             ans : x = 100
+
+2. If the price of a laptop increases from ₹50,000 to ₹60,000,
+what is the percentage increase?
+ 
+ANS:
+     initial value = 50,000
+     final value   = 60,000
+      increase = initial value - final value
+               = 50,000 - 60,000
+               = 10,000
+      percentage increase = increase/initial value * 100
+                          = 10,000/50,000 * 100
+                          = 0.2 * 100
+                          = 20%
+                    ans:20%
+
+3.A student scored 72 out of 90 in an exam.
+Find the percentage score
+
+ANS: 
+       scored = 72
+       total marks = 90
+       percentage = scored/total marks*100
+                  = 720/90*100
+                  = 80%
+
+4.The population of a town increases from 50,000 to 60,000.
+Find the percentage increase.
+ 
+ANS:
+      initial population = 50,000
+      Final population = 60,000
+     increase = final population - initial population
+              = 60,000 - 50,000
+              = 10,000
+    percentage increase = increase /increase population *100
+                        = 10,000/50,000 * 100
+                        = 0.2 *100
+                        = 20%
+
+5.A shirt originally costs ₹800.
+After a 25% discount, what is the final price?
+
+ANS:
+            original cost = 800
+          After 25% discount, final price =?
+   discount = 25% of 800  
+            = 25/100*800    
+            = 200
+
+final price = original cost - discount
+            = 800 - 200
+            = 600%
+
+Block 2 - verbal ability
+
+Reading Passage
+
+Technology is transforming industries rapidly. Artificial Intelligence,
+Machine Learning, and Automation are reshaping the way companies operate.
+Businesses now depend heavily on data-driven decision making.
+             
+Questions
+
+1. What is the main idea of the passage?
+ANS:Technology is transforming industries rapidly
+
+2. Which technologies are mentioned in the passage?
+ANS:Artificial Intelligence, Machine Learning and Automations are Mentioned
+
+3. Why are companies relying on data-driven decisions?
+ANS:The Businesses now depend heavily on data-driven decision making.
+
+Grammar Correction:
+
+1. She don't understand the problem.
+ANS: She does'nt understand the problem
+
+2.He have completed the task.
+ANS: He has completed the task
+
+3.They was going to the meeting.
+ANS: They were going to the meeting
+
+======================================================================
+
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2 minutes on:
+
+
+My name is Hemadharshini from salem.
+I am pursuing B.tech-IT at Muthayammal Engineering college.
+I am interested in software development and problem solving.
+I have worked on projects like Campus compaint management system.
+My goal is to become a software engineer in a product-based company.
+
+======================================================================
+BLOCK 4 – PROBLEM SOLVING
+
+Find the missing number in the array
+
+[1,2,3,4,6,7,8]
+
+Expected Output
+5
+
+Hint
+
+Use the formula:
+
+Sum = n*(n+1)/2
+
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+	   Scanner sc=new Scanner(System.in);
+	   int res=0;
+	   int[] arr={1,2,3,4,6,7,8};
+	   int n=8;
+	   int sum=n*(n+1)/2;//8*(9)/2 = 72/2 =>36
+	   for(int num:arr){
+	       res=res+num;//1+2+3+4+6+7+8 =>31
+	   }
+	   int result=sum-res;//=>36-31 => 5
+		System.out.println("MissingNumber: "+result);
+	}
+}
+
+=========================================================================
+
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS
+
+Topic: Arrays
+
+Problem 1 – Two Sum
+
+Given an array of integers and a target value,
+return the indices of two numbers whose sum equals the target.
+
+Example
+
+nums = [2,7,11,15]
+target = 9
+
+Output
+[0,1]
+
+
+Python Solution
+
+def twoSum(nums,target):
+
+    hashmap = {}
+
+    for i,num in enumerate(nums):
+
+        diff = target - num
+
+        if diff in hashmap:
+            return [hashmap[diff],i]
+
+        hashmap[num] = i
+
+Time Complexity
+
+O(n)
+
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+	   Scanner sc=new Scanner(System.in);
+	   int num=sc.nextInt();
+	   int arr[]=new int[num];
+	   for(int i=0;i<num;i++){
+	       arr[i]=sc.nextInt();
+	   }
+	   int tar=sc.nextInt();
+	   int left=0;
+	   int right=num-1;
+	   while(left<right){
+	       int cal=arr[left]+arr[right];
+	       if(cal==tar){
+	           System.out.println(left+" "+right);
+	           return;
+	       }
+	       else if(cal>tar){
+	           right--;
+	       }
+	       else{
+	           left++;
+	       }
+	   }
+	}
+}
+
+Practice Problem
+
+Find the maximum element in the array
+
+[3,8,1,10,4]
+
+Find the maximum element in the array
+[3,8,1,10,4]
+
+import java.util.*;
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+	   Scanner sc=new Scanner(System.in);
+	   int num=sc.nextInt();
+	   ArrayList<Integer> maxi=new ArrayList<>();
+	   for(int i=0;i<num;i++){
+	       maxi.add(sc.nextInt());
+	   }
+	   System.out.println(Collections.max(maxi));
+	}
+}
+
