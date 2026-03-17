@@ -1,0 +1,141 @@
+
+BLOCK 1 – APTITUDE (Profit & Loss)
+
+
+1. A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.
+ANS: 
+     find the profit:
+             = selling price - cost price
+             = 480 - 400
+             = 80
+
+     Calculate the percentage:
+             = (profit/cost price)*100
+             = (80/400)*100
+             = 20%
+
+     The profit percentage is 20%
+
+2. A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+ANS: 
+      Find the loss:
+           = cost price - selling price
+           = 1500 - 1200
+           = 300
+
+     calculate the percentage:
+           =(loss/cost price)*100
+           = (300/1500)*100
+           = 20%
+
+        The loss percentage is 20%
+
+3. A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+ANS: 
+      Let cost price = 100
+     market price = 20% above the c.p
+                  = 20 + 100
+                  = 120
+
+     Discount = gives a 10% discount in M.P
+              = 10/100 * 120
+              = 12
+
+     selling price = market price - discount
+                   = 120 - 12
+                   = 108
+
+     find the profit:
+          profit = S.P - C.P
+                 = 108 - 100
+                 = 8%
+ 
+        The final profit percentage is 8%
+
+
+4. If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+ANS:
+       The cost of per pen:
+              100/5 = 20 per pen ammount
+
+       find the profit ammount:
+             25% of 20 = 25/100 * 20
+                       = 5
+
+       find the Selling price
+             selling price = profit + cost price
+                           = 5 + 20
+                           = 25
+
+             The selling price is 25
+
+5. A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+ANS:
+      cost price = (100/100 - loss)*selling price
+                 = (100/100 - 10) * 900
+                 = (100/90) * 900
+                 = 1000
+
+         The cost price is 1000
+
+======================================================================================================
+
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Software development is evolving rapidly with the rise of cloud computing and
+artificial intelligence. Companies are now building scalable systems that can
+handle millions of users simultaneously.
+
+Questions
+
+1. What technologies are influencing software development?
+ANS: Cloud Computing and Artificial Intelligence
+
+2. Why are scalable systems important?
+ANS: To handle millions of users at the same time
+
+3. What does "scalable" mean in software systems?
+ANS: It means students ability is increasing loads or
+
+Grammar Correction
+
+1. He don't like programming.
+ANS: He doesn't like programming.
+
+2. She have submitted the assignment.
+ANS: She has submitted the assignment.
+
+3. They was discussing the project.
+ANS: They were discussing the project.
+
+===========================================================================================================
+
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2–3 minutes on:
+
+Project Title: Campus Complaint Management System
+
+Problem Statement: Students need a centralized digital platform to register complaints 
+regarding faculty, infrastructure, or hostels and track their resolution status in real-time.
+
+Technologies Used:
+Backend: Spring Boot
+Database: MySQL
+Frontend: HTML, CSS, JavaScript
+
+Role in the Project:
+Designed and developed the backend architecture using Spring Boot.
+Created the database schema in SQL to manage users, complaints, and status updates.
+
+Challenges Faced:
+Role-Based Access: Ensuring that students could only see their own complaints,
+while admins could view and update everything.
+Database Connectivity: Configuring the Hibernate/JPA connection properties to handle data persistence correctly without leaks.
+
