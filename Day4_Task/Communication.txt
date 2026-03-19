@@ -1,0 +1,49 @@
+Arrays:
+Definition:
+    An Array is a data structure that stores elements of the same data type 
+in contiguous memory locations, and elements are accessed using an index.
+
+Real-world Example:
+   if example bus seat arrangement:
+         Seat 1 → student 1
+         Seat 2 → student 2
+         Seat 3 → student 3
+Here:
+    Seat=index
+    Student=value
+
+Use Case:
+     Storing student marks
+     Searching and sorting data
+
+DBMS (Database Management System):
+Definition:
+        A DBMS is software that allows users to store, manage, and retrieve data efficiently.
+
+Real-world Example:
+  if example banking system:
+      Stores customer details
+      Maintains account balances
+      Records transactions
+
+Use Case:
+    Banking systems
+    Student record management
+    Hospital management systems
+
+OS (Operating System):
+Definition:
+       An Operating System (OS) is system software that acts as an interface between the user and 
+the hardware, managing system resources.
+
+Real-world Example:
+  if example smartphone:
+      Opens apps
+      Manages calls and messages
+      Controls memory and storage
+
+Use Case:
+     Process management
+     Memory management
+     File system handling
+

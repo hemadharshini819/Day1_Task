@@ -1,0 +1,29 @@
+VERBAL ABILITY:
+
+Reading Passage:
+
+Efficient algorithms and optimized systems are critical in large-scale applications.
+Companies like Amazon and Google rely heavily on scalable architectures.
+
+Questions:
+
+1. Why are optimized systems important?
+ANS: Improve performance,reduce resource usage, and handle large-scale applications efficiently.
+
+2. What does scalability mean in real-world applications?
+ANS: Scalability means a systems to handle increasing users, data, or workload without losing performance.
+
+3. Name companies that depend on scalable systems.
+ANS: Amazon and Google that are depend on scalable systems
+
+
+Grammar Correction:
+
+1. He didn’t knew the answer.
+ANS: He didn’t know the answer.
+
+2. She is more smarter than him.
+ANS: She is smarter than him.
+
+3. They has completed the task.
+ANS: They have completed the task.
