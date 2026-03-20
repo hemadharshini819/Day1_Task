@@ -801,3 +801,167 @@ Indexing improves search performance by allowing faster data retrieval.
 
 ===========================================
 END OF DAY 4 – QUANTUMNIQUE PLACEMENT ENGINE
+
+
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 5 – FULL TRAINING PLAN (ADVANCED LEVEL)
+===========================================
+
+BLOCK 1 – APTITUDE (Speed, Time & Distance)
+
+Question 1
+A train travels 60 km in 1 hour. What is its speed in m/s?
+
+Question 2
+A car travels at 40 km/h for 2 hours and 60 km/h for next 2 hours.
+Find average speed.
+
+Question 3
+Two trains moving in opposite directions at 50 km/h and 70 km/h.
+Find relative speed.
+
+Question 4
+A person walks at 5 km/h and runs at 10 km/h.
+Find time taken to cover 15 km if half distance is walked and half is run.
+
+Question 5
+If a train crosses a pole in 10 seconds and its length is 100 meters,
+find its speed.
+
+===========================================
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Algorithms play a crucial role in optimizing system performance.
+Efficient algorithms reduce execution time and resource consumption.
+
+Questions
+
+1. Why are algorithms important?
+2. What happens if inefficient algorithms are used?
+3. What is optimization in computing?
+
+Grammar Correction
+
+1. He have been working here since 2 years.
+2. She did not wrote the code.
+3. They is preparing for interviews.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a recent technical topic you learned
+
+Include:
+- Concept explanation
+- Example
+- Real-world use
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING (Intermediate)
+
+Find first repeating element in array
+
+Input:
+[1,2,3,4,2,5,3]
+
+Output:
+2
+
+Follow-up:
+Solve efficiently using hashing.
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS (Important Pattern)
+
+Topic: Binary Search
+
+Problem – Search in Sorted Array
+
+Given a sorted array, find index of target element.
+
+Example:
+
+nums = [1,2,3,4,5,6,7]
+target = 5
+
+Output:
+4
+
+Python Solution
+
+def binarySearch(nums, target):
+    left, right = 0, len(nums)-1
+
+    while left <= right:
+        mid = (left + right)//2
+
+        if nums[mid] == target:
+            return mid
+        elif nums[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+
+    return -1
+
+Time Complexity: O(log n)
+
+Practice Problem
+
+Find square root of a number using binary search
+
+===========================================
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – JOINS
+
+Types of joins:
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+
+===========================================
+OPERATING SYSTEMS CONCEPT – THREADS
+
+Threads are lightweight processes sharing same memory.
+
+Types:
+- User-level threads
+- Kernel-level threads
+
+===========================================
+NETWORKING CONCEPT – HTTP vs HTTPS
+
+HTTP:
+- Not secure
+- Data not encrypted
+
+HTTPS:
+- Secure
+- Uses SSL/TLS encryption
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – STACK
+
+Stack follows LIFO (Last In First Out)
+
+Operations:
+- Push
+- Pop
+- Peek
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+What is binary search and when can it be used?
+
+Answer:
+Binary search is used to find elements in sorted arrays with O(log n) complexity.
+
+===========================================
+END OF DAY 5 – QUANTUMNIQUE PLACEMENT ENGINE
