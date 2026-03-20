@@ -1,0 +1,29 @@
+VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Algorithms play a crucial role in optimizing system performance.
+Efficient algorithms reduce execution time and resource consumption.
+
+Questions
+
+1. Why are algorithms important?
+ANS: Algorithms are important because they help optimize system performance by making processes faster and more efficient.
+
+2. What happens if inefficient algorithms are used?
+ANS: If inefficient algorithms are used, execution time increases and more resources
+
+3. What is optimization in computing?
+ANS: Algorithms play a crucial role in optimizing system performance.
+
+
+Grammar Correction
+
+1. He have been working here since 2 years.
+ANS: He has been working here for 2 years.
+
+2. She did not wrote the code.
+ANS: She did not write the code.
+
+3. They is preparing for interviews.
+ANS: They are preparing for interviews.

@@ -1,0 +1,27 @@
+Speak for 3 minutes on:
+
+Explain a recent technical topic you learned
+
+
+Topic: Spring Boot
+
+Concept Explanation:
+    Java-based framework for backend development
+    Used to build web applications and REST APIs
+    Reduces configuration (no need for complex setup)
+    Provides auto-configuration and embedded server (Tomcat)
+    Follows “convention over configuration”
+
+Example:
+    Campus Complaint Management System project
+    Used Spring Boot + MySQL
+    Created APIs to add, view, and update complaints
+    Used annotations like @RestController, @Autowired
+    Easy to connect database and handle requests
+
+Real-World Use:
+    Used in companies for backend development
+    Helps build scalable and fast applications
+    Used in e-commerce, banking, and mobile apps
+    
+
