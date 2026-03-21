@@ -1,0 +1,23 @@
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Challenge:
+   Debugging errors in my code
+   Especially syntax errors and logical errors
+
+Why it was difficult:
+   Error messages were confusing
+   Sometimes code runs but gives wrong output
+   Took a lot of time and caused frustration
+
+How I overcame it:
+   Started reading error messages carefully
+   Used print statements to check values step by step
+   Practiced debugging regularly
+   
+What I learned:
+   Patience is very important in coding
+   Debugging is a key skill
+   Small mistakes can cause big errors
+   
