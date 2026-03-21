@@ -965,3 +965,152 @@ Binary search is used to find elements in sorted arrays with O(log n) complexity
 
 ===========================================
 END OF DAY 5 – QUANTUMNIQUE PLACEMENT ENGINE
+
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 6 – FULL TRAINING PLAN (ADVANCED LEVEL)
+===========================================
+
+BLOCK 1 – APTITUDE (Permutation & Combination)
+
+Question 1
+In how many ways can 3 students be selected from 7 students?
+
+Question 2
+How many 2-digit numbers can be formed using digits 1, 2, 3, 4 without repetition?
+
+Question 3
+In how many ways can a captain and vice-captain be chosen from 6 players?
+
+Question 4
+How many different arrangements can be made using the letters of the word MATH?
+
+Question 5
+A committee of 4 members is to be formed from 8 people. In how many ways can it be formed?
+
+===========================================
+BLOCK 2 – c
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain one challenge you faced while learning coding
+
+Include:
+- What was the challenge?
+- Why was it difficult?
+- How did you overcome it?
+- What did you learn from it?
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING (Intermediate)
+
+Find the first non-repeating element in the array
+
+Input:
+[4,5,1,2,0,4,1,2]
+
+Output:
+5
+
+Follow-up:
+Solve efficiently using hashing.
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS (Important Pattern)
+
+Topic: Two Pointers + Sorting
+
+Problem – Two Sum II (Sorted Array)
+
+Given a sorted array, return the indices of two numbers such that they add up to target.
+
+Example:
+
+nums = [2,3,4,7,11,15]
+target = 9
+
+Output:
+[1,3]
+
+Python Solution
+
+def twoSumSorted(nums, target):
+    left, right = 0, len(nums)-1
+
+    while left < right:
+        current = nums[left] + nums[right]
+
+        if current == target:
+            return [left, right]
+        elif current < target:
+            left += 1
+        else:
+            right -= 1
+
+    return [-1, -1]
+
+Time Complexity: O(n)
+
+Practice Problem
+
+Remove duplicates from sorted array
+
+===========================================
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – ACID PROPERTIES
+
+ACID stands for:
+- Atomicity
+- Consistency
+- Isolation
+- Durability
+
+These properties ensure reliable database transactions.
+
+===========================================
+OPERATING SYSTEMS CONCEPT – CONTEXT SWITCHING
+
+Context switching is the process of saving the state of one process/thread
+and loading the state of another so the CPU can switch execution.
+
+===========================================
+NETWORKING CONCEPT – ROUTER VS SWITCH
+
+Router:
+- Connects different networks
+- Uses IP address
+
+Switch:
+- Connects devices within the same network
+- Uses MAC address
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – QUEUE
+
+Queue follows FIFO (First In First Out)
+
+Operations:
+- Enqueue
+- Dequeue
+- Front/Peek
+
+Real-world example:
+- Printer queue
+- Ticket counter line
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+What are ACID properties in DBMS?
+
+Answer:
+ACID properties ensure reliable transactions:
+Atomicity means all or nothing.
+Consistency keeps data valid.
+Isolation separates concurrent transactions.
+Durability ensures committed data is permanent.
+
+===========================================
+END OF DAY 6 – QUANTUMNIQUE PLACEMENT ENGINE
