@@ -1,0 +1,44 @@
+
+APTITUDE (Probability):
+
+Probability Formmula:
+           
+           P(A) = Number of favorable outcomes/Total possible outcomes
+
+1. What is the probability of getting a head when tossing a coin?
+SOL:
+       Total outcomes: Head and Tail => 2
+       Favorable : {Head} = 1
+                = Number of favorable outcomes/Total possible outcomes
+                = 1/2//
+
+2. What is the probability of getting a number greater than 4 when rolling a dice?
+SOL:
+       Total outcomes = {1,2,3,4,5,6} => 6
+       favorable = Greater than 4 => {5,6} => 2
+                     = Number of favorable outcomes/Total possible outcomes
+                     = 2/6 => 1/3//
+
+3. A bag contains 3 red balls and 2 blue balls.
+Find probability of picking a red ball.
+SOL:
+     red - 3 and blue - 2
+     Total outcomes = 3 + 2 = 5
+     Favorable = red ball => 3/5//
+
+4. If two coins are tossed, what is probability of getting two heads?
+SOL:
+    Total outcomes = {HH,HT,TH,TT} => 4
+    Favorable = getting two heads => {HH} => 1
+            = Number of favorable outcomes/Total possible outcomes
+            = 1/4
+
+
+5. Probability of selecting a vowel from the word ENGINEER.
+SOL:
+     ENGINEER 
+        Total letters => {E,N,G,I,N,E,E,R} =>8
+        Favorable => Vowels => {E,I,E,E} =>4
+                = Number of favorable outcomes/Total possible outcomes
+                = 4/8
+                = 1/2

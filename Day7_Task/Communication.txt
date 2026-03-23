@@ -1,0 +1,32 @@
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain how the Internet works
+
+Include:
+- What happens when you type a URL
+- DNS
+- Server
+- Response
+
+1. Typing the URL
+    The Action: It starts when you type a URL like www.google.com into your browser.
+    The Problem: Browsers don't understand names; they only understand numbers called IP Addresses.
+    The Goal: Your browser initiates a search to find the exact location of that website on the global network.
+
+2. DNS - The Internet’s Phonebook
+    The Role: DNS acts like a contact list that translates the website name into an IP Address.
+    The Result: It tells your browser exactly which numerical address to visit, just like looking up a friend's phone 
+number.
+
+3. Connecting to the Server
+    The Server: A Server is a powerful computer that stays online 24/7 to store all the website’s files and data.
+    The Journey: Your request travels through your ISP and undersea cables to reach the server and perform a 
+"handshake" to connect.
+
+
+4. The Response (Delivering Data)
+    The Delivery: Once connected, the server sends a Response containing the website's data in small Packets.
+    The Final Step: Your browser catches these packets, puts them back together, and displays the final website on 
+your screen.
