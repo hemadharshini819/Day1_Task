@@ -1,0 +1,28 @@
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain your favorite programming language
+
+Include:
+- Why you like it
+- Where it is used
+- Features
+- Example project
+
+1. Why I Like Java:
+Java has a clean syntax that is easy to read and understand.
+Write Once, Run Anywhere and You can run the same code on any platform (Windows, Mac, Linux) without changes.
+
+2. Where It Is Used:
+java is most older and many current Android applications are built using Java.
+It is used to handle the backend logic of huge websites like LinkedIn and Amazon.
+
+3. Key Features:
+Object-Oriented (OOPS): Everything is treated as an "Object," which makes the code organized and reusable.
+Platform Independent: It works using the JVM (Java Virtual Machine).
+
+4. My Example Project: (Hotel Reservation System)
+Objective: To automate hotel bookings, check room availability, and manage guest details.
+Classes Used: I created separate classes for View available rooms ,Book and cancel rooms ,Room categorization.
+Logic: I used Arrays or ArrayLists to store room data and Conditional Statements.

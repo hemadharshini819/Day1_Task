@@ -1,0 +1,54 @@
+APTITUDE (Mixtures & Averagesq)
+
+1. The average of 5 numbers is 20. Find the total sum.
+SOL:
+     Total sum = average * Number of items
+               = 20* 5
+               = 100
+
+2. The average of 10 numbers is 15. If one number is removed, the average becomes 14. Find the removed number.
+SOL:
+      Total sum of 10 number = 10*15
+                             = 150
+      remove 1 number and the total
+                            = 9 * 14
+                            = 126
+        Difference is = 150 - 126
+                      = 24
+     
+3. A container has milk and water in ratio 3:2. If 10 liters of water is added, ratio becomes 3:4. Find initial quantity.
+SOL:
+        milk and water is 3:2
+    10L of water is added and the ratio becomes 3:4
+            3x/2x+10 = 3/4
+        
+        to solve x:
+            4(3x) = 3(2x+10)
+            12x   = 6x + 30
+         12x - 6x = 30
+            6x    = 30
+                x = 30/6
+                x = 5
+
+        The total initial quantity :
+          Initial quantity = 3x + 2x = 5x
+          initial quantity = 5*5 = 25L
+
+4. Find average of first 20 natural numbers.
+SOL:
+      Average formula = n+1/2
+                      = 20+1/2
+                      = 21/2
+                      = 10.5
+
+5. The average age of 5 students is 18. A new student joins and average becomes 19. Find age of new student.
+SOL:
+       Total age of 5 students = 5*18
+                               = 90
+       The add new student and there are 6 students and the average is 19
+         Total age of 6 students = 6*19
+                                 = 114
+
+         The age of new student = 114 - 90
+                                = 24
+        
