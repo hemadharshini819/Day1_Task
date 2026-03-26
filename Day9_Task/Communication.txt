@@ -1,0 +1,27 @@
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain what happens when you run a program
+
+Include:
+- Compilation / Interpretation
+- Memory allocation
+- Execution
+- Output
+
+Compilation Phase
+       The Translation: The javac compiler converts your .java code into Bytecode (.class files).
+       Portability: This Bytecode allows the program to run on any computer with a JVM.
+ 
+Loading & Interpretation
+        Class Loading: The JVM loads the .class files into the system memory.
+        Native Code: The JIT Compiler converts bytecode into Machine Code (0s and 1s) for the processor.
+
+Memory Allocation
+         Stack & Heap: Stack stores method calls and variables; Heap stores objects and Spring Beans.
+         Garbage Collection: Java automatically deletes unused objects to free up memory.
+
+Execution & Output
+         Main Method: The program starts execution from the public static void main method.
+         Final Result: The CPU processes the logic and sends the Output to the console or database.

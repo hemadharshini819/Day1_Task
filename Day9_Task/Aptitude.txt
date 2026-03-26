@@ -1,0 +1,51 @@
+APTITUDE (Time & Work)
+
+1. A can complete a work in 10 days and B in 15 days.
+How many days will they take together?
+SOL:
+      A = 10 Days and B = 15 days
+      LCM of 10 and 15 = 30
+      Total units =30
+
+      A efficiency = 10/30 = 3
+      B efficiency = 15/30 = 2
+      combined efficiency = 3+2 = 5units
+      together = 30/5 = 6days
+
+2. A alone can do a work in 12 days.
+After working for 4 days, B joins and work finishes in 4 more days.
+Find B's efficiency.
+SOL:
+       Total Work = 12 units
+       4 days alone: 4*1 = 4units
+       Remaining work = 12-4 = 8units
+       A and B finish 8 units and 4 more days
+       Combined efficiency = 8/4 = 2units
+       B's efficiency = 1unit
+
+3. If 5 people can complete a work in 20 days,
+how many people are needed to complete the work in 10 days?
+SOL:
+        5/20=100
+        complete the work in 10 Days
+          = 10/100
+          = 10 peoples
+
+4. A is twice as efficient as B.
+If B takes 12 days to complete work, how many days will A take?
+SOL:
+       Efficiency Ratio (A:B) = 2:1
+       Time Ratio (A:B) = 1:2
+       If B = 12 days, then 1 part = 6 days.
+       A will take = 6days
+ 
+5. Pipe A fills a tank in 6 hours and Pipe B fills in 8 hours.
+How long will both take together
+SOL:
+        Pipe A = 6 hrs
+        Pipe B = 8 hrs 
+    Formula:
+        A*B/A+b
+    Together=6*8/6+8 = 48/14
+    simplified = 24/7
+               = 3 3/7 hours
