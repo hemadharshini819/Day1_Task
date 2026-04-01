@@ -1,0 +1,42 @@
+APTITUDE (Speed, Time & Distance)
+
+1. A car travels 60 km in 1 hour. What is the speed?
+SOL:
+     Distance = 60KM
+     Time     = 1 hour
+      Speed = Distance / Time
+            = 60 / 1
+      Speed = 60
+
+2. A train travels at 50 km/hr. How long will it take to travel 150 km?
+SOL:
+        Train travel = 50km/hr
+     Total travel    = 150km
+      Time = Distance / Speed
+           = 150 / 50
+      Time = 3 hours
+
+3. If a person walks at 5 km/hr, how far will they walk in 3 hours?
+SOL:
+     person walks = 5km/hr
+         Distance = Speed / Time
+                  = 5 * 3
+        Distance  = 15 hours 
+    
+4. Two trains move in opposite direction at 40 km/hr and 60 km/hr.
+Find relative speed.
+SOL:
+      Trian1 = 40km/hr
+      Train2 = 60km/hr
+      relative Speed = 40 + 60
+                     = 100 km/hr
+
+5. A car travels first half distance at 40 km/hr and second half at 60 km/hr.
+Find average speed.
+SOL:
+        1st dis = 40km/hr
+        2nd dis = 60km/hr
+        Average speed Formula = x + y/ 2xy
+                              = 40 + 60/ 2*40*60
+                              = 100/4800
+             Average speed    = 48km/hr

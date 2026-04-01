@@ -1,0 +1,33 @@
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain Binary Search algorithm
+
+Include:
+- Sorted array
+- Middle element
+- Divide search space
+- Time complexity
+
+Binary Search:
+  => Binary Search is one of the most popular and efficient ways to find a specific item in a list.
+  => Imagine searching for a word in a thick dictionary - you don't start from page one;
+you jump to the middle. That is the basic idea of Binary Search.
+ 
+ Sorted array:
+    => Binary Search only works on a Sorted Array.
+    => This means the numbers or items must be in ordered
+    => like an example 1, 2, 3, 4, 5.
+
+ Middle element:
+    step 1: Instead of checking every item, we look at the Middle Element first.
+    step 2: We compare our target number to this middle value.
+    step 3: If our number is smaller, we know it must be in the left half. If it’s bigger, it’s in the right half.
+
+ Divide search space:
+     => we Divide the search space in half instantly. We throw away the half we don't need and repeat the process with 
+ the remaining part. It’s like a 'Yes or No' game that gets smaller every time.
+
+ Time complexity:
+      => Time Complexity is a way to measure how much time an algorithm takes to run as the input size (data) grows.

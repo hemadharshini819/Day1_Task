@@ -1,0 +1,27 @@
+Reading Passage
+
+Binary search is an efficient searching algorithm that works on sorted arrays.
+It repeatedly divides the search interval into half and reduces the search space.
+
+Questions
+
+1. Where does binary search work?
+SOL: It is an efficient searching algorithm that works on sorted arrays.
+
+2. How does binary search reduce search space?
+SOL: It repeatedly divides the search interval into half and reduces the search space.
+
+3. Is binary search faster than linear search?
+SOL: Yes.Binary search is faster because it halves the data each step (O(log n)),
+while linear search checks every element(O(n)).
+
+Grammar Correction
+
+1. He don’t know binary search.
+ANS: He does’t know binary search.
+
+2. She have completed the task.
+ANS: She has completed the task.
+
+3. They is learning algorithms.
+ANS: They are learning algorithms.
