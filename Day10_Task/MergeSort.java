@@ -1,5 +1,5 @@
 import java.util.*;
-public class MergeSort {
+public class Main{
     public static void msort(int[] arr,int start,int mid,int end){
         int i=start; 
         int j=mid;
@@ -27,12 +27,12 @@ public class MergeSort {
             k++;
             j++;
         }
-        for(int n=start;n<end;n++){
+        for(int num=start;num<end;num++){
             arr[num]=res[num];
         }
     }
     public static void merge(int[] arr,int start,int end){
-        if(end-start ==1){
+        if(end-start==1){
              return;
         }
         int mid=(start+end) / 2;
@@ -43,7 +43,7 @@ public class MergeSort {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
-        int arr[]=new int[n];
+        int arr[]=new int[num];
         for(int i=0;i<num;i++){
             arr[i]=sc.nextInt();
         }
